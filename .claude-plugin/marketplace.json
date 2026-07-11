@@ -1,0 +1,15 @@
+{
+  "name": "wizard-claude",
+  "description": "The power of Wizard on your Claude subscription - Wizard's evolved loadout as a Claude Code plugin.",
+  "owner": {
+    "name": "Teddy Tennant",
+    "email": "teddytennant@icloud.com"
+  },
+  "plugins": [
+    {
+      "name": "wizard",
+      "source": "./",
+      "description": "The power of Wizard on your Claude subscription: Wizard's evolved coding workflow, its four specialist subagents, /wizard:fusion panel debates, and the /wizard:evolve self-extension ladder, ported to Claude Code."
+    }
+  ]
+}
